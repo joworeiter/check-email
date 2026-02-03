@@ -1,12 +1,12 @@
 # Check & Log Email - Easy Email Testing & Mail logging
-Contributors: checkemail  
-Tags: logging, email, email log, smtp, log  
-Requires at least: 5.0  
-Tested up to: 6.6  
-Requires PHP: 5.6.20  
-Stable tag: 2.0.3  
-License: GPLv3 or later  
-License URI: http://www.gnu.org/licenses/gpl-3.0.html  
+Contributors: checkemail
+Tags: logging, email, email log, smtp, log
+Requires at least: 5.0
+Tested up to: 6.9
+Requires PHP: 7.4
+Stable tag: 2.0.11
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Check & Log email allows you to test if your website is correctly sending emails . Overriding of email headers and carbon copying to another address.
 
