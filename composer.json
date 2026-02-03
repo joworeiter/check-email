@@ -1,4 +1,6 @@
 {
+    "name": "ahmedkaludi/check-email",
+    "type": "wordpress-plugin",
     "require": {
         "league/oauth2-client": "^2.5",
         "egulias/email-validator": "^3.2"
